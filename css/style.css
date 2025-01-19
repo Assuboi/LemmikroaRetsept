@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&family=Playwrite+IS:wght@100..400&display=swap');
+
+body{
+    background-color: rgb(217, 223, 188);
+}
+
+.heading {
+    text-align: center;
+}
+
+.pasta-heading {
+    color:darkcyan;
+    font-family: "Agu Display", serif;
+    font-size: 2rem;
+}
+
+.ingridients {
+    text-align: center;
+    border: 1px solid black;
+    width: 55%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.ingridients-table{
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.instructions{
+    border: 1px solid black;
+    width: 55%;
+    margin: 0 auto;
+}
+
+.instructions ol {
+    border: 1px solid grey;
+    margin: 0 auto;
+    width: 75%;
+}
+
+.link {
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 55%;
+}
+
+.footer {
+    font-family: "Playwrite IS", serif;
+    text-align: center;
+    font-size: 1rem;
+}
